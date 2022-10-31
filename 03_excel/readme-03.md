@@ -25,3 +25,19 @@ pip install xlrd==1.2.0
 03_excel_parse_write_keep_dates.py:
 格式化日期数据.
 ```
+
+```text
+04_pandas_read_write_excel.py:
+pandas 也有一组读取 Excel 文件的函数.
+```
+
+```text
+05_excel_value_meets_condition.py:
+首先，来看一下如何使用基础 Python 筛选出特定的行.
+在这个示例中，你想筛选出 Sale Amount 大于 $1400.00 的行.
+```
+
+```text
+06_pandas_value_meets_condition.py:
+要使用 pandas 筛选出满足特定条件的行.
+```
