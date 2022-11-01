@@ -41,3 +41,43 @@ pandas 也有一组读取 Excel 文件的函数.
 06_pandas_value_meets_condition.py:
 要使用 pandas 筛选出满足特定条件的行.
 ```
+
+```text
+07_excel_value_in_set.py:
+行中的值属于某个集合.
+```
+
+```text
+08_pandas_value_in_set.py:
+pandas 行中的值属于某个集合.
+```
+
+```text
+09_excel_value_match_pattern.py:
+行中的值匹配于特定模式.
+```
+
+```text
+10_pandas_value_match_pattern.py:
+pandas 行中的值匹配于特定模式.
+```
+
+```text
+11_excel_columns_by_index.py:
+列索引值.
+```
+
+```text
+12_pandas_columns_by_index.py:
+pandas 列索引值.
+```
+
+```text
+13_excel_columns_by_name.py:
+在工作表中选取一组列的方法是使用列标题.
+```
+
+```text
+14_pandas_columns_by_name.py:
+pandas 在工作表中选取一组列的方法是使用列标题.
+```
