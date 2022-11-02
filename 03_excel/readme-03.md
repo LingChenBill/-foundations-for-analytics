@@ -81,3 +81,23 @@ pandas 列索引值.
 14_pandas_columns_by_name.py:
 pandas 在工作表中选取一组列的方法是使用列标题.
 ```
+
+```text
+15_excel_value_meet_conditions_all_sheets.py:
+在所有工作表中筛选特定行.
+```
+
+```text
+16_pandas_value_meet_conditions_all_sheets.py:
+pandas 在所有工作表中筛选特定行.
+```
+
+```text
+17_excel_column_by_name_all_sheets.py:
+在所有工作表中选取特定列.
+```
+
+```text
+18_pandas_column_by_name_all_sheets.py:
+pandas 在所有工作表中选取特定列.
+```
